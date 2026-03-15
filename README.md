@@ -245,13 +245,4 @@ Give it a ⭐ on GitHub.
 
 It helps the project grow and reach more developers.
 
----
-
-If you want, I can also give you **3 things that massively increase GitHub stars**:
-
-1️⃣ **A README banner that looks like a dev tool homepage**
-2️⃣ **A screenshot section that makes the project look polished**
-3️⃣ **A Hacker News launch post that drives traffic to the repo**
-
-Those three together can take a repo from **0 → 500 stars very quickly**.
 
