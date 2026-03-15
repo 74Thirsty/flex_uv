@@ -1,7 +1,7 @@
 # ⚡ FlexUV
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chirschauer/flex_uv/main/src/flex_uv/flexuv-icon.png" alt="FlexUV logo" width="200"/>
+  <img src=flex_uv/flexuv-icon.png alt="FlexUV logo" width="200"/>
 </p>
 
 
