@@ -1,0 +1,42 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "flex-uv"
+version = "0.1.0"
+description = "The Interactive UV Command Center — a Textual TUI for uv"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+authors = [{ name = "Chris Hirschauer" }]
+keywords = ["uv", "python", "tui", "textual", "package-manager", "cli"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Utilities",
+]
+dependencies = ["textual>=0.80.0"]
+
+[project.scripts]
+flex-uv = "flex_uv.app:main"
+
+[project.urls]
+Homepage = "https://github.com/chirschauer/flex_uv"
+Repository = "https://github.com/chirschauer/flex_uv"
+Issues = "https://github.com/chirschauer/flex_uv/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/flex_uv"]
+artifacts = ["src/flex_uv/flexuv-icon.png"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/", "README.md", "LICENSE", "pyproject.toml"]
