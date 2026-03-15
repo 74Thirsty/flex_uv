@@ -1,9 +1,6 @@
 # ⚡ FlexUV
 
-<p align="center">
-  <img src=flex_uv/flexuv-icon.png alt="FlexUV logo" width="200"/>
-</p>
-
+[![Chat-GPT-Image-Mar-15-2026-02-20-47-AM-removebg-preview.png](https://i.postimg.cc/pTy8Nf2Y/Chat-GPT-Image-Mar-15-2026-02-20-47-AM-removebg-preview.png)](https://postimg.cc/cgy6w8tr)
 
 ### The Interactive Command Center for `uv`
 
