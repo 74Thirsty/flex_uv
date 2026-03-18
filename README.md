@@ -1,6 +1,5 @@
 # ⚡ FlexUV
 
-![Sheen Banner](https://raw.githubusercontent.com/74Thirsty/74Thirsty/main/assets/flexuv.svg)
 
 
 <div align="center">
@@ -29,7 +28,12 @@
 
 ---
 
+![Sheen Banner](https://raw.githubusercontent.com/74Thirsty/74Thirsty/main/assets/flexuv.svg)
+
+---
+
 ## The Interactive Command Center for `uv`
+
 
 > Stop memorizing `uv` commands.
 > Manage Python environments visually — **without leaving your terminal.**
