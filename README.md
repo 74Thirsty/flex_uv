@@ -1,5 +1,8 @@
 # ⚡ FlexUV
 
+![Sheen Banner](https://raw.githubusercontent.com/74Thirsty/74Thirsty/main/assets/flexuv.svg)
+
+
 <div align="center">
   <a href="https://postimg.cc/cgy6w8tr">
     <img src="https://i.postimg.cc/pTy8Nf2Y/Chat-GPT-Image-Mar-15-2026-02-20-47-AM-removebg-preview.png"/>
