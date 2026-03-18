@@ -272,6 +272,10 @@ Give it a ⭐ on GitHub.
 
 It helps the project grow and reach more developers.
 
+```bash
+eth:0xC6139506fa54c450948D9D2d8cCf269453A54f17
+```
+
 [![Screenshot_20260315_033946.png](https://i.postimg.cc/XqCFdRPY/Screenshot_20260315_033946.png)](https://postimg.cc/303dHc7s)
 
 [![Screenshot_20260315_034032.png](https://i.postimg.cc/76c0CHKb/Screenshot_20260315_034032.png)](https://postimg.cc/KkPRw2Sy)
