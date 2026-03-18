@@ -8,8 +8,28 @@
     <img src="https://i.postimg.cc/pTy8Nf2Y/Chat-GPT-Image-Mar-15-2026-02-20-47-AM-removebg-preview.png"/>
   </a>
 </div>
+<!-- Badges -->
+<div align="center">
+  <a href="https://github.com/74Thirsty/flex_uv">
+    <img src="https://img.shields.io/badge/App-Flex%20UV-7BAFD4?style=for-the-badge&labelColor=0B1D2A&color=7BAFD4">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Language-100%25%20Python-6FA8D6?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=0B1D2A&color=6FA8D6">
+  </a>
+  <a href="https://github.com/astral-sh/uv">
+    <img src="https://img.shields.io/badge/Package%20Manager-uv-63A1D8?style=for-the-badge&labelColor=0B1D2A&color=63A1D8">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Interface-TUI-5799DA?style=for-the-badge&labelColor=0B1D2A&color=5799DA">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Author-Christopher%20Hirschauer-4B92DC?style=for-the-badge&labelColor=0B1D2A&color=4B92DC">
+  </a>
+</div>
 
-### The Interactive Command Center for `uv`
+---
+
+## The Interactive Command Center for `uv`
 
 > Stop memorizing `uv` commands.
 > Manage Python environments visually — **without leaving your terminal.**
